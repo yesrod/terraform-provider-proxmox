@@ -7,3 +7,5 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.6.1
 	github.com/rs/zerolog v1.21.0
 )
+
+replace github.com/Telmate/proxmox-api-go => github.com/yesrod/proxmox-api-go v0.0.0-20210709170111-1a44bb8b2f82
